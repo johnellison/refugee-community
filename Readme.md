@@ -20,6 +20,8 @@ This is an open-source project which means anyone who wants to make changes to t
 - Improves documentation
 - Makes some other incremental improvement not stated above but is reasonable to suggest
 
+If your pull requests include new features, please write tests for your code. If you identify untested features, please write tests to build the test suite of the application.
+
 #### Slackin
 This landing page uses [Guillermo Rauchg](https://github.com/rauchg)'s [Slackin](https://github.com/rauchg/slackin) which is a 'little server that enables public access to a Slack server.'
 
